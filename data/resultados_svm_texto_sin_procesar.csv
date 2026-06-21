@@ -1,0 +1,2 @@
+Modelo;Texto;F1-Score Macro;Tiempo (min);RAM Pico (GB);Mejor C;max_features;Stopwords;Lematizacion
+SVM (LinearSVC);sin procesar (texto_beto);0.9034;0.72;2.169;1.0;10000;conservadas;no
